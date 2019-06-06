@@ -7,12 +7,10 @@ We use the following database schema:
 ```graphql
 scalar Timestamp
 type Todo {
-  type Todo {
-    id: ID!
-    created_at: Timestamp!
-    updated_at: Timestamp!
-    content: String!
-  }
+  id: ID!
+  created_at: Timestamp!
+  updated_at: Timestamp!
+  content: String!
 }
 ```
 
