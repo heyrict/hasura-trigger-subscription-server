@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "apollo-server-core": "^2.6.1",
+    "apollo-server-core": "^2.14.2",
     "apollo-server-express": "^2.6.1",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
